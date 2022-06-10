@@ -10,7 +10,12 @@
 .main-visual{
   height: 20px;
   width: 20px;
-  background-image:url(img/mv.jpg);
+  background-image: url(img/box1.jpg);
+}
+
+main-visual .headline{
+  height: 20px;
+  width: 20px;
 }
 
 .main{
