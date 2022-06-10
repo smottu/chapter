@@ -8,9 +8,12 @@
 
 
 .main-visual{
-  height: 20px;
-  width: 20px;
-  background-image: url(img/box1.jpg);
+  height: 400px;
+  width: 100%;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: 0 400px;
+  object-fit: cover;
 }
 
 main-visual .headline{
@@ -21,7 +24,11 @@ main-visual .headline{
 .main{
   width: 840px;
   margin: 50px auto;
+  display: flex; 
+  justify-content: center;
+  margin:0 auto;
 }
+
 
 .service1{
   margin-bottom: 30px;
