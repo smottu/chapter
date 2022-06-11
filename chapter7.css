@@ -29,11 +29,11 @@ main-visual .headline{
   justify-content: center;
 }
 
-
 .service1{
-  margin-bottom: 30px;
   border-bottom: 1px solid #d1d1d1;
   padding-bottom: 30px;
+  margin-left:auto;
+  margin-right: auto;
   }
   
 .service2{
