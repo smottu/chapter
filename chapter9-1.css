@@ -1,9 +1,18 @@
-
-.fab {
-  font-size: 32px;
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
 }
-.position {
+
+
+.position{
   position: absolute;
-  top: 100px;
+  top:100px;
   right: 40px;
+  
+}
+
+.fab{
+  font-size: 32px;
+  
 }
