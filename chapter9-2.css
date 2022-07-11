@@ -72,18 +72,24 @@ footer {
 
 @media screen and (max-width:768px){
   
-  
   header{
     width: 100%;
   }
   
   main{
     width: 100%;
-    display: none;
+    display: block;
   }
   
   .main-list{
     width: 90%;
-    margin-bottom:50px 20px 0 0;
+    margin:50px 5% 20px 5%;
   }
+  
+  footer{
+    width:100%;
+  }
+
 }
+
+
